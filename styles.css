@@ -1,0 +1,80 @@
+body {
+    color: rgb(30, 30, 138);
+    padding-top: 5px;
+}
+
+div {
+    border-bottom: solid;
+    border-bottom-width: 1px;
+}
+
+a:visited {
+    color: red;
+}
+
+/* HEADING */
+.heading {
+    text-align: center;
+    line-height: 0;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
+}
+
+.heading-title {
+    display: block;
+    border-bottom-width: 0px;
+    margin-bottom: 30px;
+}
+
+/* LINKS */
+.links {
+    margin-left: 5%;
+}
+
+.links ul {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
+
+.links li {
+    padding-bottom: 40px;
+    padding-inline-end: 50px;
+}
+
+.links li > p {
+    font-size: 10px;
+    padding-top: 0px;
+    margin-top: 5px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+/* CONTACT */
+.contact  {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.contact p {
+    font-size: 10px;
+    padding-inline-start: 17%;
+    padding-inline-end: 17%;
+}
+
+.contact img {
+    margin-bottom: 0%;
+    padding-bottom: 0px;
+}
+
+/* NOTICE */
+.notice {
+    font-size: 13px;
+}
+
+/* FOOTER */
+.foot {
+    font-size: 12px;
+    border-bottom-width: 0px;
+}
+
